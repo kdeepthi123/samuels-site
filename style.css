@@ -1,0 +1,97 @@
+.body-bg{
+    background-color: aqua !important;
+}
+.logo{
+    width: 50px;
+
+height: 50px;}
+
+.define{
+    background-color: lavender;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+h1 {
+    color: rgb(73, 180, 82);
+    margin-left: 0px
+
+}
+
+.header  {
+    border: solid;
+} 
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+
+a:link{
+    color: rosybrown
+}
+a:visited{
+  color : green  
+}
+.menu a{
+  margin-left:30px
+}
+
+.item {
+    position: relative
+}
+
+.item p{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(50%,50%);
+    opacity:0
+}
+
+.item:hover{
+
+    transform: scale(1,1.5);
+}
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
